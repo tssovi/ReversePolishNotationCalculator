@@ -5,7 +5,9 @@
 
 # How My Script Will Execute?
 
-*** I used python3 for this script.***
+***I used python3 for this script.***\
+*Terminal Command*
+
 > python3 ReversePolishNotationCalculator.py
 
 
@@ -17,6 +19,9 @@
 > 70 11 * 5 / 219 + 28 26 6 - 6 - / * 448 7 * sqrt + \
 > 1.3 7.9 + 2.8 * 3.0 / .75 - sqrt 3 ^ \
 > 5 8 2 15 * sin * + 2 45 tan + / \
-> 3 2 * 8 60 cos * + 3 4 ^ 0.5 * 1 - / \
+> 3 2 * 8 60 cos * + 3 4 ^ 0.5 * 1 - /
 > 
 
+# My Terminal Screen Shot
+
+<img src="terminalss.png" width="100%" alt="Terminal Screen Shot">
